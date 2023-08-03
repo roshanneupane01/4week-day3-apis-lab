@@ -1,0 +1,3 @@
+Week 4 day 3 APIs lab
+
+In this lab, I utilized the SWAPI (Star Wars API) to retrieve specific information such as the height of Darth Vader, the population of the planet Alderaan, the manufacturer of the Millennium Falcon, the species C-3PO belongs to, and the films that featured Obi-Wan Kenobi. I also employed the search query to gather data about the Millennium Falcon starship. Additionally, I explored the Social Mountain API, making requests using Postman and recording URLs and response information. Finally, I created a front-end application using HTML, CSS, and JavaScript to fetch and display the residents of the planet Alderaan from SWAPI with a click of a button on the webpage.
